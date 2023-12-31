@@ -18,7 +18,7 @@ export default function Component() {
     return (
       <Footer container>
         <div className="w-full">
-          <div className="grid w-full justify-between sm:flex sm:justify-between md:flex md:grid-cols-1">
+          <div className="grid w-full justify-between sm:flex sm:justify-between md:flex md:grid-cols-1 container mx-auto">
             <div>
               <FooterBrand
                 href="https://atomicperu.com"

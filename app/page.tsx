@@ -1,5 +1,4 @@
 import CardPlan from '@/components/CardPlan'
-import Footer from '@/components/Footer'
 import Carrousel from '@/components/Carrousel'
 import { Button } from 'flowbite-react'
 
@@ -42,7 +41,7 @@ export default function Home() {
 					<CardPlan></CardPlan>
 				</section>
 			</section>
-			<Footer />
+			
 		</main>
 	)
 }
